@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# GOALS FOR THIS APP MVP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[] Create a flexible chat interfact that is lightweight and highly customizable
+[] Allow end users to either specify specific inputs with generated responses and preset flows OR interface with ChatGPT to control the conversation
+[] Write unit, integration, and end to end tests with Jest, React Testing Library, and Puppeteer
+[] Research deploying this package as an NPM package
 
 ## Available Scripts
 
